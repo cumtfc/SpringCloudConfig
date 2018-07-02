@@ -3,9 +3,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
-server:
-  port: 8764
-
 feign:
   hystrix:
     #此项不为true，feign断路器不生效
