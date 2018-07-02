@@ -27,4 +27,4 @@ management:
         #actuator默认只公开info和health接口，如果需要获取更多信息，则需增加如下配置
         include: "*"
       base-path: /
-testConfig: value1
+testConfig: value2
