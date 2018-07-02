@@ -28,4 +28,4 @@ management:
         include: "*"
       base-path: /
 testConfig:
-  value: value2
+  value: value1
